@@ -5,3 +5,4 @@ Project 05 version1 completed
 2nd Team Member: <정대성>
 2nd Team Member :<20241075>
 Project 04 version2 completed
+3rd Team Member: <임예담>
