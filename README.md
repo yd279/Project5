@@ -7,3 +7,4 @@ Project 05 version1 completed
 Project 04 version2 completed
 3rd Team Member: <임예담>
 3rdTeam Member: <20242366>
+Project 05 version3 completed
